@@ -1,0 +1,958 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.blacksheep.com" resolutions="1x,2x" timestamp="1524760409824">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-__.css" crc="197207600" ref="index"/>
+    <file name="master_b-__.css" crc="4238656554" ref="如果您的孩子是屠夫:言語霸凌:案例故事:學生篇:肢體霸凌2:如果您的孩子是黑羊:反擊性霸凌2:黑羊效應:網路霸凌:資訊分享:家長篇:網路霸凌2:如何面對:關係霸凌:言語霸凌2:後續影響:角色測驗:肢體霸凌:數據分析:性霸凌:性霸凌2:如果你是白羊:老師篇:關於霸凌:反擊性霸凌:如果你是黑羊:關係霸凌2"/>
+    <file name="_________1.css" crc="3991447900" ref="如果您的孩子是屠夫"/>
+    <file name="____9.css" crc="4056846752" ref="言語霸凌"/>
+    <file name="____6.css" crc="4291792549" ref="案例故事"/>
+    <file name="___.css" crc="319164829" ref="學生篇"/>
+    <file name="____21.css" crc="4071674731" ref="肢體霸凌2"/>
+    <file name="_________.css" crc="3924256065" ref="如果您的孩子是黑羊"/>
+    <file name="_____2.css" crc="4184680408" ref="反擊性霸凌2"/>
+    <file name="index.css" crc="4013393661" ref="index"/>
+    <file name="____.css" crc="3816969125" ref="黑羊效應"/>
+    <file name="____10.css" crc="314292656" ref="網路霸凌"/>
+    <file name="____11.css" crc="434347672" ref="資訊分享"/>
+    <file name="___1.css" crc="4229335247" ref="家長篇"/>
+    <file name="____24.css" crc="82897644" ref="網路霸凌2"/>
+    <file name="____4.css" crc="4149207875" ref="如何面對"/>
+    <file name="____8.css" crc="4138726404" ref="關係霸凌"/>
+    <file name="____23.css" crc="3952444160" ref="言語霸凌2"/>
+    <file name="____3.css" crc="359992718" ref="後續影響"/>
+    <file name="____5.css" crc="14194654" ref="角色測驗"/>
+    <file name="____7.css" crc="341558876" ref="肢體霸凌"/>
+    <file name="____2.css" crc="286100748" ref="數據分析"/>
+    <file name="___3.css" crc="315907676" ref="性霸凌"/>
+    <file name="___21.css" crc="4210296856" ref="性霸凌2"/>
+    <file name="______1.css" crc="196086906" ref="如果你是白羊"/>
+    <file name="___2.css" crc="3933013416" ref="老師篇"/>
+    <file name="____1.css" crc="47767296" ref="關於霸凌"/>
+    <file name="_____.css" crc="10499168" ref="反擊性霸凌"/>
+    <file name="______.css" crc="4041482307" ref="如果你是黑羊"/>
+    <file name="____22.css" crc="183845625" ref="關係霸凌2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="museutils.js" crc="340535759" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:案例故事:如何面對:關於霸凌:數據分析:後續影響:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:黑羊效應:關於霸凌:數據分析:後續影響:如果你是黑羊:如果你是白羊:如果您的孩子是黑羊:如果您的孩子是屠夫:資訊分享"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="require.js" crc="7928878" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="webpro.js" crc="4059564322" ref="資訊分享"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="資訊分享"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="資訊分享"/>
+    <file name="touchswipe.js" crc="4075097462" ref="資訊分享"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u35317.png" crc="4139045507" ref="index"/>
+    <file name="u35317_2x.png" crc="60116775" ref="index"/>
+    <file name="u35317-r.png" crc="379321902" ref="index"/>
+    <file name="u35317-r_2x.png" crc="173435611" ref="index"/>
+    <file name="u35317-a.png" crc="3778687195" ref="index"/>
+    <file name="u35317-a_2x.png" crc="113976977" ref="index"/>
+    <file name="u35298-4.png" crc="4053181993" ref="index"/>
+    <file name="u35298-4_2x.png" crc="66658603" ref="index"/>
+    <file name="u35305-4.png" crc="4110750299" ref="index"/>
+    <file name="u35305-4_2x.png" crc="135564703" ref="index"/>
+    <file name="u35311-4.png" crc="4224016498" ref="index"/>
+    <file name="u35311-4_2x.png" crc="3819288116" ref="index"/>
+    <file name="u35175.png" crc="4028768416" ref="index"/>
+    <file name="u35175_2x.png" crc="495478114" ref="index"/>
+    <file name="u35175-r.png" crc="3814272241" ref="index"/>
+    <file name="u35175-r_2x.png" crc="81969709" ref="index"/>
+    <file name="u35175-a.png" crc="4292934412" ref="index"/>
+    <file name="u35175-a_2x.png" crc="458317033" ref="index"/>
+    <file name="u35183-4.png" crc="354067237" ref="index"/>
+    <file name="u35183-4_2x.png" crc="3964027183" ref="index"/>
+    <file name="u35190-4.png" crc="341295151" ref="index"/>
+    <file name="u35190-4_2x.png" crc="429413799" ref="index"/>
+    <file name="u35195-4.png" crc="4086340747" ref="index"/>
+    <file name="u35195-4_2x.png" crc="146699989" ref="index"/>
+    <file name="u35233.png" crc="3900157825" ref="index"/>
+    <file name="u35233_2x.png" crc="317050283" ref="index"/>
+    <file name="u35233-r.png" crc="130553720" ref="index"/>
+    <file name="u35233-r_2x.png" crc="3800385954" ref="index"/>
+    <file name="u35233-a.png" crc="4118424807" ref="index"/>
+    <file name="u35233-a_2x.png" crc="353312713" ref="index"/>
+    <file name="u35237.png" crc="3887820945" ref="index"/>
+    <file name="u35237_2x.png" crc="4233052620" ref="index"/>
+    <file name="u35237-r.png" crc="20470861" ref="index"/>
+    <file name="u35237-r_2x.png" crc="231118413" ref="index"/>
+    <file name="u35237-a.png" crc="4081721618" ref="index"/>
+    <file name="u35237-a_2x.png" crc="393751655" ref="index"/>
+    <file name="u35252-4.png" crc="237605547" ref="index"/>
+    <file name="u35252-4_2x.png" crc="83649403" ref="index"/>
+    <file name="u35246-4.png" crc="390850959" ref="index"/>
+    <file name="u35246-4_2x.png" crc="224160128" ref="index"/>
+    <file name="u35274-4.png" crc="4002076340" ref="index"/>
+    <file name="u35274-4_2x.png" crc="4130054113" ref="index"/>
+    <file name="u35266-4.png" crc="4233438773" ref="index"/>
+    <file name="u35266-4_2x.png" crc="4031451801" ref="index"/>
+    <file name="u35283-4.png" crc="3856680258" ref="index"/>
+    <file name="u35283-4_2x.png" crc="496368034" ref="index"/>
+    <file name="u35261-4.png" crc="3974759419" ref="index"/>
+    <file name="u35261-4_2x.png" crc="4109343580" ref="index"/>
+    <file name="u35286.png" crc="82357241" ref="index"/>
+    <file name="u35286_2x.png" crc="4014265920" ref="index"/>
+    <file name="u35286-r.png" crc="474079671" ref="index"/>
+    <file name="u35286-r_2x.png" crc="34525615" ref="index"/>
+    <file name="u35286-a.png" crc="3868085945" ref="index"/>
+    <file name="u35286-a_2x.png" crc="4032398740" ref="index"/>
+    <file name="貼上的-svg-225842x92.svg" crc="3982510021" seo="true" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2">
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="家長篇" alt=""/>
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="反擊性霸凌2" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="性霸凌2" alt=""/>
+      <caption webpage="如果你是黑羊" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+      <caption webpage="數據分析" alt=""/>
+      <caption webpage="資訊分享" alt=""/>
+      <caption webpage="後續影響" alt=""/>
+      <caption webpage="如何面對" alt=""/>
+      <caption webpage="黑羊效應" alt=""/>
+      <caption webpage="如果你是白羊" alt=""/>
+      <caption webpage="案例故事" alt=""/>
+      <caption webpage="肢體霸凌2" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="網路霸凌2" alt=""/>
+      <caption webpage="角色測驗" alt=""/>
+      <caption webpage="關於霸凌" alt=""/>
+      <caption webpage="關係霸凌2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+      <caption webpage="言語霸凌2" alt=""/>
+      <caption webpage="學生篇" alt=""/>
+      <caption webpage="老師篇" alt=""/>
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 225842x92_poster_.png" crc="4288607412" ref="index:資訊分享"/>
+    <file name="貼上的-svg-83856x602.svg" crc="4156883148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 83856x602_poster_.png" crc="219063498" ref="index"/>
+    <file name="貼上的-svg-449447x107.svg" crc="4033404935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 449447x107_poster_.png" crc="3983763261" ref="index"/>
+    <file name="貼上的-svg-567614x90.svg" crc="4111381412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 567614x90_poster_.png" crc="358402587" ref="index"/>
+    <file name="貼上的-svg-43656x175.svg" crc="3776191543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 43656x175_poster_.png" crc="4148757273" ref="index"/>
+    <file name="000002.gif" crc="474215113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的-svg-567814x382.svg" crc="4243063223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 567814x382_poster_.png" crc="191168264" ref="index"/>
+    <file name="貼上的-svg-698x705.svg" crc="153676205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 698x705_poster_.png" crc="434199179" ref="index"/>
+    <file name="貼上的-svg-1322759x68.svg" crc="534145976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 1322759x68_poster_.png" crc="4123023831" ref="index"/>
+    <file name="貼上的-svg-49848x574.svg" crc="534850589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 49848x574_poster_.png" crc="4025402628" ref="index"/>
+    <file name="貼上的-svg-49848x5742.svg" crc="3982182870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 49848x574_poster_2.png" crc="145447281" ref="index"/>
+    <file name="貼上的-svg-49848x5743.svg" crc="4180939222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 49848x574_poster_3.png" crc="4189529366" ref="index"/>
+    <file name="貼上的-svg-617188x443.svg" crc="388491735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 617188x443_poster_.png" crc="22359433" ref="index"/>
+    <file name="眼睛.gif" crc="457639027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="眼睛_2x.gif" crc="457639027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u46587-4.png" crc="4257007552" ref="index"/>
+    <file name="u46587-4_2x.png" crc="4061959434" ref="index"/>
+    <file name="貼上的-svg-642216x67.svg" crc="4187725616" seo="true" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2">
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="家長篇" alt=""/>
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="反擊性霸凌2" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="性霸凌2" alt=""/>
+      <caption webpage="如果你是黑羊" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+      <caption webpage="數據分析" alt=""/>
+      <caption webpage="資訊分享" alt=""/>
+      <caption webpage="後續影響" alt=""/>
+      <caption webpage="如何面對" alt=""/>
+      <caption webpage="黑羊效應" alt=""/>
+      <caption webpage="如果你是白羊" alt=""/>
+      <caption webpage="案例故事" alt=""/>
+      <caption webpage="肢體霸凌2" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="網路霸凌2" alt=""/>
+      <caption webpage="角色測驗" alt=""/>
+      <caption webpage="關於霸凌" alt=""/>
+      <caption webpage="關係霸凌2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+      <caption webpage="言語霸凌2" alt=""/>
+      <caption webpage="學生篇" alt=""/>
+      <caption webpage="老師篇" alt=""/>
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 642216x67_poster_.png" crc="146929897" ref="index:資訊分享"/>
+    <file name="貼上的-svg-16248x162.svg" crc="481881539" seo="true" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2">
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="家長篇" alt=""/>
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="反擊性霸凌2" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="性霸凌2" alt=""/>
+      <caption webpage="如果你是黑羊" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+      <caption webpage="數據分析" alt=""/>
+      <caption webpage="資訊分享" alt=""/>
+      <caption webpage="後續影響" alt=""/>
+      <caption webpage="如何面對" alt=""/>
+      <caption webpage="黑羊效應" alt=""/>
+      <caption webpage="如果你是白羊" alt=""/>
+      <caption webpage="案例故事" alt=""/>
+      <caption webpage="肢體霸凌2" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="網路霸凌2" alt=""/>
+      <caption webpage="角色測驗" alt=""/>
+      <caption webpage="關於霸凌" alt=""/>
+      <caption webpage="關係霸凌2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+      <caption webpage="言語霸凌2" alt=""/>
+      <caption webpage="學生篇" alt=""/>
+      <caption webpage="老師篇" alt=""/>
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 16248x162_poster_.png" crc="4020602314" ref="index:資訊分享"/>
+    <file name="貼上的-svg-1644x164.svg" crc="4184708535" seo="true" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2">
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="家長篇" alt=""/>
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="反擊性霸凌2" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="性霸凌2" alt=""/>
+      <caption webpage="如果你是黑羊" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+      <caption webpage="數據分析" alt=""/>
+      <caption webpage="資訊分享" alt=""/>
+      <caption webpage="後續影響" alt=""/>
+      <caption webpage="如何面對" alt=""/>
+      <caption webpage="黑羊效應" alt=""/>
+      <caption webpage="如果你是白羊" alt=""/>
+      <caption webpage="案例故事" alt=""/>
+      <caption webpage="肢體霸凌2" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="網路霸凌2" alt=""/>
+      <caption webpage="角色測驗" alt=""/>
+      <caption webpage="關於霸凌" alt=""/>
+      <caption webpage="關係霸凌2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+      <caption webpage="言語霸凌2" alt=""/>
+      <caption webpage="學生篇" alt=""/>
+      <caption webpage="老師篇" alt=""/>
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 1644x164_poster_.png" crc="312905098" ref="index:資訊分享"/>
+    <file name="貼上的-svg-16464x164.svg" crc="3892131596" seo="true" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2">
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="家長篇" alt=""/>
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="反擊性霸凌2" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="性霸凌2" alt=""/>
+      <caption webpage="如果你是黑羊" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+      <caption webpage="數據分析" alt=""/>
+      <caption webpage="資訊分享" alt=""/>
+      <caption webpage="後續影響" alt=""/>
+      <caption webpage="如何面對" alt=""/>
+      <caption webpage="黑羊效應" alt=""/>
+      <caption webpage="如果你是白羊" alt=""/>
+      <caption webpage="案例故事" alt=""/>
+      <caption webpage="肢體霸凌2" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="網路霸凌2" alt=""/>
+      <caption webpage="角色測驗" alt=""/>
+      <caption webpage="關於霸凌" alt=""/>
+      <caption webpage="關係霸凌2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+      <caption webpage="言語霸凌2" alt=""/>
+      <caption webpage="學生篇" alt=""/>
+      <caption webpage="老師篇" alt=""/>
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 16464x164_poster_.png" crc="4203342704" ref="index:資訊分享"/>
+    <file name="貼上的-svg-16536x165.svg" crc="4286534565" seo="true" ref="index:黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2">
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="家長篇" alt=""/>
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="反擊性霸凌2" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="性霸凌2" alt=""/>
+      <caption webpage="如果你是黑羊" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+      <caption webpage="數據分析" alt=""/>
+      <caption webpage="資訊分享" alt=""/>
+      <caption webpage="後續影響" alt=""/>
+      <caption webpage="如何面對" alt=""/>
+      <caption webpage="黑羊效應" alt=""/>
+      <caption webpage="如果你是白羊" alt=""/>
+      <caption webpage="案例故事" alt=""/>
+      <caption webpage="肢體霸凌2" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="網路霸凌2" alt=""/>
+      <caption webpage="角色測驗" alt=""/>
+      <caption webpage="關於霸凌" alt=""/>
+      <caption webpage="關係霸凌2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+      <caption webpage="言語霸凌2" alt=""/>
+      <caption webpage="學生篇" alt=""/>
+      <caption webpage="老師篇" alt=""/>
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 16536x165_poster_.png" crc="441459014" ref="index:資訊分享"/>
+    <file name="未命名-5.jpg" crc="24222403" ref="index:案例故事:如何面對">
+      <caption webpage="index" alt=""/>
+      <caption webpage="如何面對" alt=""/>
+      <caption webpage="案例故事" alt=""/>
+    </file>
+    <file name="u3409.png" crc="4139045507" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3409_2x.png" crc="60116775" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3409-r.png" crc="379321902" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3409-r_2x.png" crc="173435611" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3409-a.png" crc="3778687195" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3409-a_2x.png" crc="113976977" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3430-4.png" crc="4053181993" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3430-4_2x.png" crc="66658603" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3415-4.png" crc="4110750299" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3415-4_2x.png" crc="135564703" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3425-4.png" crc="4224016498" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3425-4_2x.png" crc="3819288116" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3543.png" crc="4028768416" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3543_2x.png" crc="495478114" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3543-r.png" crc="3814272241" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3543-r_2x.png" crc="81969709" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3543-a.png" crc="4292934412" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3543-a_2x.png" crc="458317033" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3536-4.png" crc="354067237" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3536-4_2x.png" crc="3964027183" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3531-4.png" crc="341295151" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3531-4_2x.png" crc="429413799" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3523-4.png" crc="4086340747" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3523-4_2x.png" crc="146699989" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3465.png" crc="3900157825" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3465_2x.png" crc="317050283" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3465-r.png" crc="130553720" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3465-r_2x.png" crc="3800385954" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3465-a.png" crc="4118424807" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3465-a_2x.png" crc="353312713" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3516.png" crc="3887820945" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3516_2x.png" crc="4233052620" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3516-r.png" crc="20470861" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3516-r_2x.png" crc="231118413" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3516-a.png" crc="4081721618" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3516-a_2x.png" crc="393751655" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3498-4.png" crc="237605547" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3498-4_2x.png" crc="83649403" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3490-4.png" crc="390850959" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3490-4_2x.png" crc="224160128" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3484-4.png" crc="4002076340" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3484-4_2x.png" crc="4130054113" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3510-4.png" crc="4233438773" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3510-4_2x.png" crc="4031451801" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3503-4.png" crc="3856680258" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3503-4_2x.png" crc="496368034" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3475-4.png" crc="3974759419" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3475-4_2x.png" crc="4109343580" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3548.png" crc="82357241" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3548_2x.png" crc="4014265920" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3548-r.png" crc="474079671" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3548-r_2x.png" crc="34525615" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3548-a.png" crc="3868085945" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="u3548-a_2x.png" crc="4032398740" ref="黑羊效應:案例故事:角色測驗:如何面對:資訊分享:關於霸凌:數據分析:後續影響:學生篇:如果你是黑羊:如果你是白羊:家長篇:如果您的孩子是黑羊:如果您的孩子是屠夫:老師篇:肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2"/>
+    <file name="貼上的-svg-8448x158.svg" crc="3934784989" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 8448x158_poster_.png" crc="4163473134" ref="黑羊效應"/>
+    <file name="貼上的-svg-146208x472.svg" crc="529738318" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 146208x472_poster_.png" crc="4273572971" ref="黑羊效應"/>
+    <file name="貼上的-svg-58272x158.svg" crc="4169562037" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 58272x158_poster_.png" crc="4158014731" ref="黑羊效應"/>
+    <file name="貼上的-svg-45744x567.svg" crc="247366306" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 45744x567_poster_.png" crc="236468699" ref="黑羊效應"/>
+    <file name="貼上的-svg-45744x5672.svg" crc="451310737" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 45744x567_poster_2.png" crc="4032127906" ref="黑羊效應"/>
+    <file name="貼上的-svg-160315x38.svg" crc="113162738" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 160315x38_poster_.png" crc="365106676" ref="黑羊效應"/>
+    <file name="貼上的-svg-45744x568.svg" crc="3923953684" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 45744x568_poster_.png" crc="4049437727" ref="黑羊效應"/>
+    <file name="貼上的-svg-45744x5682.svg" crc="349350201" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 45744x568_poster_2.png" crc="4179319958" ref="黑羊效應"/>
+    <file name="貼上的-svg-158514x37.svg" crc="280159095" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 158514x37_poster_.png" crc="120873578" ref="黑羊效應"/>
+    <file name="貼上的-svg-539.svg" crc="195353827" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 539_poster_.png" crc="493301074" ref="黑羊效應"/>
+    <file name="貼上的-svg-5392.svg" crc="64039418" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 539_poster_2.png" crc="3799220116" ref="黑羊效應"/>
+    <file name="貼上的-svg-160874x37.svg" crc="335075958" seo="true" ref="黑羊效應">
+      <caption webpage="黑羊效應" alt=""/>
+    </file>
+    <file name="貼上的 svg 160874x37_poster_.png" crc="75206851" ref="黑羊效應"/>
+    <file name="u47493-4.png" crc="4257007552" ref="黑羊效應"/>
+    <file name="u47493-4_2x.png" crc="4061959434" ref="黑羊效應"/>
+    <file name="貼上的-svg-358x172.svg" crc="3788543477" seo="true" ref="案例故事">
+      <caption webpage="案例故事" alt=""/>
+    </file>
+    <file name="貼上的 svg 358x172_poster_.png" crc="299569735" ref="案例故事"/>
+    <file name="貼上的-svg-358x1722.svg" crc="4246118081" seo="true" ref="案例故事">
+      <caption webpage="案例故事" alt=""/>
+    </file>
+    <file name="貼上的 svg 358x172_poster_2.png" crc="299569735" ref="案例故事"/>
+    <file name="貼上的-svg-358x1723.svg" crc="4246118081" seo="true" ref="案例故事">
+      <caption webpage="案例故事" alt=""/>
+    </file>
+    <file name="貼上的 svg 358x172_poster_3.png" crc="299569735" ref="案例故事"/>
+    <file name="貼上的-svg-358x1724.svg" crc="379211801" seo="true" ref="案例故事">
+      <caption webpage="案例故事" alt=""/>
+    </file>
+    <file name="貼上的 svg 358x172_poster_4.png" crc="525067631" ref="案例故事"/>
+    <file name="未命名-1.png" crc="157369322" seo="true" ref="案例故事">
+      <caption webpage="案例故事" alt=""/>
+    </file>
+    <file name="未命名-1_2x.png" crc="187200190" seo="true" ref="案例故事">
+      <caption webpage="案例故事" alt=""/>
+    </file>
+    <file name="貼上的-svg-358x1725.svg" crc="383811987" seo="true" ref="案例故事">
+      <caption webpage="案例故事" alt=""/>
+    </file>
+    <file name="貼上的 svg 358x172_poster_5.png" crc="357996983" ref="案例故事"/>
+    <file name="貼上的-svg-148128x730.svg" crc="535239457" seo="true" ref="如何面對">
+      <caption webpage="如何面對" alt=""/>
+    </file>
+    <file name="貼上的 svg 148128x730_poster_.png" crc="4040815520" ref="如何面對"/>
+    <file name="貼上的-svg-495x204.svg" crc="4286919498" seo="true" ref="如何面對">
+      <caption webpage="如何面對" alt=""/>
+    </file>
+    <file name="貼上的 svg 495x204_poster_.png" crc="465652641" ref="如何面對"/>
+    <file name="貼上的-svg-48816x569.svg" crc="4132179973" seo="true" ref="如何面對">
+      <caption webpage="如何面對" alt=""/>
+    </file>
+    <file name="貼上的 svg 48816x569_poster_.png" crc="408385395" ref="如何面對"/>
+    <file name="貼上的-svg-159994x37.svg" crc="151248889" seo="true" ref="如何面對">
+      <caption webpage="如何面對" alt=""/>
+    </file>
+    <file name="貼上的 svg 159994x37_poster_.png" crc="301391555" ref="如何面對"/>
+    <file name="貼上的-svg-489.svg" crc="3828850479" seo="true" ref="如何面對">
+      <caption webpage="如何面對" alt=""/>
+    </file>
+    <file name="貼上的 svg 489_poster_.png" crc="56328533" ref="如何面對"/>
+    <file name="貼上的-svg-48816x572.svg" crc="137926945" seo="true" ref="如何面對">
+      <caption webpage="如何面對" alt=""/>
+    </file>
+    <file name="貼上的 svg 48816x572_poster_.png" crc="3918908103" ref="如何面對"/>
+    <file name="貼上的-svg-159714x37.svg" crc="3887957060" seo="true" ref="如何面對">
+      <caption webpage="如何面對" alt=""/>
+    </file>
+    <file name="貼上的 svg 159714x37_poster_.png" crc="4181095722" ref="如何面對"/>
+    <file name="貼上的-svg-160554x37.svg" crc="31653415" seo="true" ref="如何面對">
+      <caption webpage="如何面對" alt=""/>
+    </file>
+    <file name="貼上的 svg 160554x37_poster_.png" crc="3891115795" ref="如何面對"/>
+    <file name="貼上的-svg-516x243.svg" crc="525733791" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 516x243_poster_.png" crc="3789764660" ref="資訊分享"/>
+    <file name="貼上的-svg-1457x777.svg" crc="236469191" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 1457x777_poster_.png" crc="4130551124" ref="資訊分享"/>
+    <file name="貼上的-svg-689x63.svg" crc="490699771" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 689x63_poster_.png" crc="3971457973" ref="資訊分享"/>
+    <file name="貼上的-svg-975x859.svg" crc="11952594" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 975x859_poster_.png" crc="4055329667" ref="資訊分享"/>
+    <file name="貼上的-svg-531x205.svg" crc="131782774" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 531x205_poster_.png" crc="4285728697" ref="資訊分享"/>
+    <file name="1.png" crc="4010022703" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="1_2x.png" crc="3868462228" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="2.png" crc="155796508" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="2_2x.png" crc="3884990624" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="3.png" crc="3857524209" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="3_2x.png" crc="387657689" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="4.png" crc="3837888410" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="4_2x.png" crc="458699943" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="資訊分享"/>
+    <file name="貼上的-svg-551x226.svg" crc="4220939355" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 551x226_poster_.png" crc="402889315" ref="資訊分享"/>
+    <file name="貼上的-svg-1476x2130.svg" crc="500240460" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 1476x2130_poster_.png" crc="4042988505" ref="資訊分享"/>
+    <file name="貼上的-svg-262x262.svg" crc="375503880" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 262x262_poster_.png" crc="175645137" ref="資訊分享"/>
+    <file name="貼上的-svg-262x2622.svg" crc="3775702105" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 262x262_poster_2.png" crc="3842599332" ref="資訊分享"/>
+    <file name="貼上的-svg-262x2623.svg" crc="242692942" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 262x262_poster_3.png" crc="399241723" ref="資訊分享"/>
+    <file name="貼上的-svg-262x2624.svg" crc="518422696" seo="true" ref="資訊分享">
+      <caption webpage="資訊分享" alt=""/>
+    </file>
+    <file name="貼上的 svg 262x262_poster_4.png" crc="325040951" ref="資訊分享"/>
+    <file name="貼上的-svg-1434x1315.svg" crc="4109064780" seo="true" ref="關於霸凌">
+      <caption webpage="關於霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 1434x1315_poster_.png" crc="163023330" ref="關於霸凌"/>
+    <file name="貼上的-svg-1406x1172.svg" crc="389235917" seo="true" ref="關於霸凌">
+      <caption webpage="關於霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 1406x1172_poster_.png" crc="298109794" ref="關於霸凌"/>
+    <file name="貼上的-svg-1474x1363.svg" crc="517758719" seo="true" ref="關於霸凌">
+      <caption webpage="關於霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 1474x1363_poster_.png" crc="258833492" ref="關於霸凌"/>
+    <file name="u78793-4.png" crc="3888228609" ref="關於霸凌"/>
+    <file name="u78793-4_2x.png" crc="263063907" ref="關於霸凌"/>
+    <file name="2.jpg" crc="186534754" ref="關於霸凌">
+      <caption webpage="關於霸凌" alt=""/>
+    </file>
+    <file name="貼上的-svg-176352x709.svg" crc="129009177" seo="true" ref="數據分析">
+      <caption webpage="數據分析" alt=""/>
+    </file>
+    <file name="貼上的 svg 176352x709_poster_.png" crc="4043169670" ref="數據分析"/>
+    <file name="貼上的-svg-140832x1545.svg" crc="4270451298" seo="true" ref="數據分析">
+      <caption webpage="數據分析" alt=""/>
+    </file>
+    <file name="貼上的 svg 140832x1545_poster_.png" crc="3972397568" ref="數據分析"/>
+    <file name="貼上的-svg-120528x1206.svg" crc="4143285152" seo="true" ref="數據分析">
+      <caption webpage="數據分析" alt=""/>
+    </file>
+    <file name="貼上的 svg 120528x1206_poster_.png" crc="3832343811" ref="數據分析"/>
+    <file name="u93258-4.png" crc="4257007552" ref="數據分析"/>
+    <file name="u93258-4_2x.png" crc="4061959434" ref="數據分析"/>
+    <file name="數據分析排版new.jpg" crc="3883180681" ref="數據分析">
+      <caption webpage="數據分析" alt=""/>
+    </file>
+    <file name="貼上的-svg-696x203.svg" crc="349154946" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 696x203_poster_.png" crc="3762886156" ref="後續影響"/>
+    <file name="貼上的-svg-999x659.svg" crc="117479138" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 999x659_poster_.png" crc="489377781" ref="後續影響"/>
+    <file name="a.gif" crc="206174235" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的-svg-128x145.svg" crc="3760205937" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+      <caption webpage="後續影響" alt=""/>
+      <caption webpage="後續影響" alt=""/>
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 128x145_poster_.png" crc="3825018404" ref="後續影響"/>
+    <file name="貼上的-svg-1164x780.svg" crc="68666721" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 1164x780_poster_.png" crc="379882996" ref="後續影響"/>
+    <file name="b.gif" crc="516298406" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的-svg-716x211.svg" crc="445046824" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 716x211_poster_.png" crc="516573148" ref="後續影響"/>
+    <file name="貼上的-svg-431x482.svg" crc="3952919062" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 431x482_poster_.png" crc="3864362083" ref="後續影響"/>
+    <file name="貼上的-svg-840x613.svg" crc="257089967" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 840x613_poster_.png" crc="242011836" ref="後續影響"/>
+    <file name="貼上的-svg-1000x1003.svg" crc="3792262242" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 1000x1003_poster_.png" crc="3889977752" ref="後續影響"/>
+    <file name="c.gif" crc="238770467" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的-svg-1247x687.svg" crc="139919899" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 1247x687_poster_.png" crc="4026475898" ref="後續影響"/>
+    <file name="貼上的-svg-696x2032.svg" crc="375523510" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 696x203_poster_2.png" crc="4031509380" ref="後續影響"/>
+    <file name="4.gif" crc="430182911" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的-svg-653x690.svg" crc="4073646713" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 653x690_poster_.png" crc="498684749" ref="後續影響"/>
+    <file name="貼上的-svg-1127x701.svg" crc="3947078610" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 1127x701_poster_.png" crc="256085697" ref="後續影響"/>
+    <file name="貼上的-svg-349566x30.svg" crc="439841690" seo="true" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的 svg 349566x30_poster_.png" crc="4019090436" ref="後續影響"/>
+    <file name="u45081-4.png" crc="4257007552" ref="後續影響"/>
+    <file name="u45081-4_2x.png" crc="4061959434" ref="後續影響"/>
+    <file name="佈告欄.jpg" crc="529063677" ref="後續影響">
+      <caption webpage="後續影響" alt=""/>
+    </file>
+    <file name="貼上的-svg-199344x1911.svg" crc="3918482592" seo="true" ref="學生篇">
+      <caption webpage="學生篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 199344x1911_poster_.png" crc="4133011562" ref="學生篇"/>
+    <file name="貼上的-svg-64884x542.svg" crc="4039171655" seo="true" ref="學生篇">
+      <caption webpage="學生篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 64884x542_poster_.png" crc="4126824845" ref="學生篇"/>
+    <file name="貼上的-svg-428x429.svg" crc="120834494" seo="true" ref="學生篇">
+      <caption webpage="學生篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 428x429_poster_.png" crc="115111663" ref="學生篇"/>
+    <file name="貼上的-svg-428x4292.svg" crc="108663846" seo="true" ref="學生篇">
+      <caption webpage="學生篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 428x429_poster_2.png" crc="4253815036" ref="學生篇"/>
+    <file name="貼上的-svg-1506x3493.svg" crc="85594963" seo="true" ref="如果你是黑羊">
+      <caption webpage="如果你是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 1506x3493_poster_.png" crc="217830535" ref="如果你是黑羊"/>
+    <file name="u84889-4.png" crc="4257007552" ref="如果你是黑羊"/>
+    <file name="u84889-4_2x.png" crc="4061959434" ref="如果你是黑羊"/>
+    <file name="貼上的-svg-1506x5660.svg" crc="490183327" seo="true" ref="如果你是白羊">
+      <caption webpage="如果你是白羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 1506x5660_poster_.png" crc="11343428" ref="如果你是白羊"/>
+    <file name="u85628-4.png" crc="4257007552" ref="如果你是白羊"/>
+    <file name="u85628-4_2x.png" crc="4061959434" ref="如果你是白羊"/>
+    <file name="貼上的-svg-658x993.svg" crc="170025425" seo="true" ref="家長篇">
+      <caption webpage="家長篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 658x993_poster_.png" crc="3922791939" ref="家長篇"/>
+    <file name="貼上的-svg-415x415.svg" crc="4192380811" seo="true" ref="家長篇">
+      <caption webpage="家長篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 415x415_poster_.png" crc="3764495374" ref="家長篇"/>
+    <file name="貼上的-svg-415x4152.svg" crc="4122413208" seo="true" ref="家長篇">
+      <caption webpage="家長篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 415x415_poster_2.png" crc="120559322" ref="家長篇"/>
+    <file name="貼上的-svg-282x245.svg" crc="144372901" seo="true" ref="如果您的孩子是黑羊">
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 282x245_poster_.png" crc="4027455827" ref="如果您的孩子是黑羊"/>
+    <file name="貼上的-svg-494977x66.svg" crc="310600038" seo="true" ref="如果您的孩子是黑羊">
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 494977x66_poster_.png" crc="3804652557" ref="如果您的孩子是黑羊"/>
+    <file name="貼上的-svg-1920x1166.svg" crc="4016091713" seo="true" ref="如果您的孩子是黑羊">
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 1920x1166_poster_.png" crc="4059120935" ref="如果您的孩子是黑羊"/>
+    <file name="貼上的-svg-1433x1130.svg" crc="261641505" seo="true" ref="如果您的孩子是黑羊">
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 1433x1130_poster_.png" crc="4070191181" ref="如果您的孩子是黑羊"/>
+    <file name="貼上的-svg-1673485x154.svg" crc="4196702304" seo="true" ref="如果您的孩子是黑羊">
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 1673485x154_poster_.png" crc="349926976" ref="如果您的孩子是黑羊"/>
+    <file name="貼上的-svg-1868x1028.svg" crc="3967387329" seo="true" ref="如果您的孩子是黑羊">
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 1868x1028_poster_.png" crc="4207797559" ref="如果您的孩子是黑羊"/>
+    <file name="貼上的-svg-524x977.svg" crc="15520950" seo="true" ref="如果您的孩子是黑羊">
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 524x977_poster_.png" crc="310140565" ref="如果您的孩子是黑羊"/>
+    <file name="貼上的-svg-1552x1348.svg" crc="3880821580" seo="true" ref="如果您的孩子是黑羊">
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 1552x1348_poster_.png" crc="515179582" ref="如果您的孩子是黑羊"/>
+    <file name="貼上的-svg-421x611.svg" crc="3888843296" seo="true" ref="如果您的孩子是黑羊">
+      <caption webpage="如果您的孩子是黑羊" alt=""/>
+    </file>
+    <file name="貼上的 svg 421x611_poster_.png" crc="3845273097" ref="如果您的孩子是黑羊"/>
+    <file name="u108300-4.png" crc="4257007552" ref="如果您的孩子是黑羊"/>
+    <file name="u108300-4_2x.png" crc="4061959434" ref="如果您的孩子是黑羊"/>
+    <file name="貼上的-svg-206x230.svg" crc="3830500666" seo="true" ref="如果您的孩子是屠夫">
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 206x230_poster_.png" crc="4137424598" ref="如果您的孩子是屠夫"/>
+    <file name="貼上的-svg-496867x66.svg" crc="60000328" seo="true" ref="如果您的孩子是屠夫">
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 496867x66_poster_.png" crc="4155955392" ref="如果您的孩子是屠夫"/>
+    <file name="貼上的-svg-1507x908.svg" crc="237757465" seo="true" ref="如果您的孩子是屠夫">
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 1507x908_poster_.png" crc="43459375" ref="如果您的孩子是屠夫"/>
+    <file name="貼上的-svg-1895x3904.svg" crc="3849579843" seo="true" ref="如果您的孩子是屠夫">
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 1895x3904_poster_.png" crc="349706847" ref="如果您的孩子是屠夫"/>
+    <file name="貼上的-svg-1190x784.svg" crc="4252577659" seo="true" ref="如果您的孩子是屠夫">
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 1190x784_poster_.png" crc="3822680897" ref="如果您的孩子是屠夫"/>
+    <file name="1-.gif" crc="30336757" seo="true" ref="如果您的孩子是屠夫">
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的-svg-1369x1201.svg" crc="3995222443" seo="true" ref="如果您的孩子是屠夫">
+      <caption webpage="如果您的孩子是屠夫" alt=""/>
+    </file>
+    <file name="貼上的 svg 1369x1201_poster_.png" crc="365637078" ref="如果您的孩子是屠夫"/>
+    <file name="u110580-4.png" crc="4257007552" ref="如果您的孩子是屠夫"/>
+    <file name="u110580-4_2x.png" crc="4061959434" ref="如果您的孩子是屠夫"/>
+    <file name="貼上的-svg-608x230.svg" crc="3940633734" seo="true" ref="老師篇">
+      <caption webpage="老師篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 608x230_poster_.png" crc="505374644" ref="老師篇"/>
+    <file name="貼上的-svg-1456x1119.svg" crc="3867572476" seo="true" ref="老師篇">
+      <caption webpage="老師篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 1456x1119_poster_.png" crc="529930324" ref="老師篇"/>
+    <file name="貼上的-svg-680x231.svg" crc="62571830" seo="true" ref="老師篇">
+      <caption webpage="老師篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 680x231_poster_.png" crc="3977128047" ref="老師篇"/>
+    <file name="貼上的-svg-1209x1005.svg" crc="158693627" seo="true" ref="老師篇">
+      <caption webpage="老師篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 1209x1005_poster_.png" crc="342957711" ref="老師篇"/>
+    <file name="貼上的-svg-1283x893.svg" crc="3994395578" seo="true" ref="老師篇">
+      <caption webpage="老師篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 1283x893_poster_.png" crc="452321963" ref="老師篇"/>
+    <file name="1-1.gif" crc="3992709420" seo="true" ref="老師篇">
+      <caption webpage="老師篇" alt=""/>
+    </file>
+    <file name="1-1_2x.gif" crc="3992709420" seo="true" ref="老師篇">
+      <caption webpage="老師篇" alt=""/>
+    </file>
+    <file name="貼上的-svg-1271x2629.svg" crc="335546295" seo="true" ref="老師篇">
+      <caption webpage="老師篇" alt=""/>
+    </file>
+    <file name="貼上的 svg 1271x2629_poster_.png" crc="485080732" ref="老師篇"/>
+    <file name="貼上的-svg-1482x939.svg" crc="3828410217" seo="true" ref="肢體霸凌:肢體霸凌2">
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="肢體霸凌2" alt=""/>
+    </file>
+    <file name="貼上的 svg 1482x939_poster_.png" crc="18613885" ref="肢體霸凌"/>
+    <file name="貼上的-svg-216x228.svg" crc="3821201112" seo="true" ref="肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌">
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 216x228_poster_.png" crc="3986737681" ref="肢體霸凌"/>
+    <file name="貼上的-svg-193x171.svg" crc="3930118884" seo="true" ref="肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌">
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 193x171_poster_.png" crc="3947876673" ref="肢體霸凌"/>
+    <file name="5.jpg" crc="293922724" ref="肢體霸凌:關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2">
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="性霸凌2" alt=""/>
+      <caption webpage="言語霸凌2" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="網路霸凌2" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="反擊性霸凌2" alt=""/>
+      <caption webpage="肢體霸凌" alt=""/>
+      <caption webpage="關係霸凌2" alt=""/>
+      <caption webpage="肢體霸凌2" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+    </file>
+    <file name="貼上的-svg-1481x939.svg" crc="472387626" seo="true" ref="關係霸凌:言語霸凌:反擊性霸凌:性霸凌:網路霸凌:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2">
+      <caption webpage="關係霸凌" alt=""/>
+      <caption webpage="性霸凌2" alt=""/>
+      <caption webpage="言語霸凌2" alt=""/>
+      <caption webpage="反擊性霸凌" alt=""/>
+      <caption webpage="言語霸凌" alt=""/>
+      <caption webpage="網路霸凌2" alt=""/>
+      <caption webpage="網路霸凌" alt=""/>
+      <caption webpage="反擊性霸凌2" alt=""/>
+      <caption webpage="性霸凌" alt=""/>
+      <caption webpage="關係霸凌2" alt=""/>
+    </file>
+    <file name="貼上的 svg 1481x939_poster_.png" crc="424857040" ref="關係霸凌:性霸凌2"/>
+    <file name="貼上的-svg-1013x690.svg" crc="159449818" seo="true" ref="關係霸凌">
+      <caption webpage="關係霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 1013x690_poster_.png" crc="282886417" ref="關係霸凌"/>
+    <file name="貼上的-svg-1017x656.svg" crc="259872722" seo="true" ref="言語霸凌">
+      <caption webpage="言語霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 1017x656_poster_.png" crc="3951592106" ref="言語霸凌"/>
+    <file name="貼上的-svg-1028x684.svg" crc="526120547" seo="true" ref="反擊性霸凌">
+      <caption webpage="反擊性霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 1028x684_poster_.png" crc="186146524" ref="反擊性霸凌"/>
+    <file name="貼上的-svg-1057x660.svg" crc="3938871552" seo="true" ref="性霸凌">
+      <caption webpage="性霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 1057x660_poster_.png" crc="142978472" ref="性霸凌"/>
+    <file name="貼上的-svg-1026x681.svg" crc="337582568" seo="true" ref="網路霸凌">
+      <caption webpage="網路霸凌" alt=""/>
+    </file>
+    <file name="貼上的 svg 1026x681_poster_.png" crc="3791027890" ref="網路霸凌"/>
+    <file name="貼上的-svg-1251x873.svg" crc="4126093265" seo="true" ref="肢體霸凌2:性霸凌2">
+      <caption webpage="肢體霸凌2" alt=""/>
+      <caption webpage="性霸凌2" alt=""/>
+    </file>
+    <file name="貼上的 svg 1251x873_poster_.png" crc="286723596" ref="肢體霸凌2:性霸凌2"/>
+    <file name="貼上的-svg-153x150.svg" crc="4075167599" seo="true" ref="肢體霸凌2:關係霸凌2:言語霸凌2:網路霸凌2:反擊性霸凌2:性霸凌2">
+      <caption webpage="性霸凌2" alt=""/>
+      <caption webpage="反擊性霸凌2" alt=""/>
+      <caption webpage="言語霸凌2" alt=""/>
+      <caption webpage="肢體霸凌2" alt=""/>
+      <caption webpage="關係霸凌2" alt=""/>
+      <caption webpage="網路霸凌2" alt=""/>
+    </file>
+    <file name="貼上的 svg 153x150_poster_.png" crc="107632336" ref="肢體霸凌2:性霸凌2"/>
+    <file name="貼上的-svg-1251x8732.svg" crc="213890157" seo="true" ref="關係霸凌2">
+      <caption webpage="關係霸凌2" alt=""/>
+    </file>
+    <file name="貼上的 svg 1251x873_poster_2.png" crc="3971987262" ref="關係霸凌2"/>
+    <file name="貼上的-svg-1251x8733.svg" crc="4004027014" seo="true" ref="言語霸凌2">
+      <caption webpage="言語霸凌2" alt=""/>
+    </file>
+    <file name="貼上的 svg 1251x873_poster_3.png" crc="3847018222" ref="言語霸凌2"/>
+    <file name="貼上的-svg-1251x872.svg" crc="3861278492" seo="true" ref="網路霸凌2">
+      <caption webpage="網路霸凌2" alt=""/>
+    </file>
+    <file name="貼上的 svg 1251x872_poster_.png" crc="380952047" ref="網路霸凌2"/>
+    <file name="貼上的-svg-1251x8734.svg" crc="4155969737" seo="true" ref="反擊性霸凌2">
+      <caption webpage="反擊性霸凌2" alt=""/>
+    </file>
+    <file name="貼上的 svg 1251x873_poster_4.png" crc="189960027" ref="反擊性霸凌2"/>
+    <file name="u171898-4.png" crc="4257007552" ref="資訊分享"/>
+    <file name="u171898-4_2x.png" crc="4061959434" ref="資訊分享"/>
+  </folder>
+  <file name="index.html" crc="438425062" seo="true" mt="1524669100601" redirect="true"/>
+  <file name="黑羊效應.html" crc="363213260" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="案例故事.html" crc="294706002" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="角色測驗.html" crc="207827616" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="如何面對.html" crc="24052423" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="資訊分享.html" crc="4237333388" seo="true" mt="1524760329559" redirect="true"/>
+  <file name="關於霸凌.html" crc="3867761030" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="數據分析.html" crc="511744189" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="後續影響.html" crc="372200598" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="學生篇.html" crc="4158060227" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="如果你是黑羊.html" crc="535817186" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="如果你是白羊.html" crc="4247290212" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="家長篇.html" crc="4100468709" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="如果您的孩子是黑羊.html" crc="69268838" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="如果您的孩子是屠夫.html" crc="10097386" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="老師篇.html" crc="492617174" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="肢體霸凌.html" crc="154034946" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="關係霸凌.html" crc="3950357688" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="言語霸凌.html" crc="4013304209" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="反擊性霸凌.html" crc="4200574203" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="性霸凌.html" crc="359305957" seo="true" mt="1524668429478" redirect="true"/>
+  <file name="網路霸凌.html" crc="523634243" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="肢體霸凌2.html" crc="296839640" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="關係霸凌2.html" crc="3924299567" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="言語霸凌2.html" crc="4275466716" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="網路霸凌2.html" crc="3847035335" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="反擊性霸凌2.html" crc="316593096" seo="true" mt="1524668004046" redirect="true"/>
+  <file name="性霸凌2.html" crc="200948299" seo="true" mt="1524760387773" redirect="true"/>
+</manifest>
